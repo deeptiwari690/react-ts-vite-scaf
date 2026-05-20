@@ -15,7 +15,7 @@
   --clr-surface-hov: hsl(var(--blue-700));
   --clr-surface-inert: hsl(var(--blue-800) / 40%);
   --clr-skeleton: hsl(220deg 15% 25%);
-  --clr-skeleton-highlight: hsl(220 15% 28%);
+  --clr-skeleton-highlight: hsl(22deg 15% 28%);
   --clr-skeleton-muted: hsl(220deg 15% 23%);
   --clr-border: hsl(var(--blue-700));
   --clr-outline: hsl(var(--blue-100));
