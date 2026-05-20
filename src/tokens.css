@@ -10,7 +10,7 @@
   --clr-text-muted: hsl(var(--blue-200));
   --clr-text-placeholder: hsl(var(--blue-300));
   --clr-text-inert: hsl(var(--blue-700));
-  --clr-text-error: hsl(347deg 80% 60%);
+  --clr-text-error: hsl(347 80% 60%);
   --clr-surface: hsl(var(--blue-800));
   --clr-surface-hov: hsl(var(--blue-700));
   --clr-surface-inert: hsl(var(--blue-800) / 40%);
